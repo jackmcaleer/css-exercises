@@ -1,0 +1,29 @@
+/* style.css */
+
+
+/* * `p`: a green background, white text, and a font size of 18px
+* `button`: an orange background and a font size of 18px
+ */
+div {
+
+    color: white;
+    background-color: red;
+
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+   
+    color: white;
+    background-color: green;
+
+     font-size: 18px;
+ 
+}
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
